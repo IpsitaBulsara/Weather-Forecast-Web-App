@@ -1,6 +1,6 @@
 import streamlit as st
 import plotly.express as px
-from vtkmodules.numpy_interface.internal_algorithms import condition
+
 
 from backend import get_data
 
