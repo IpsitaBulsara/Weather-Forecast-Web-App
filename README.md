@@ -18,3 +18,6 @@ A simple and interactive weather forecast app built with **Streamlit** and power
 -  Python  
 -  Streamlit  
 - OpenWeatherMap API  
+
+![image](https://github.com/user-attachments/assets/b7bf8d07-bf8c-40c6-93d7-ef8bf5c759a9)
+![image](https://github.com/user-attachments/assets/ed4826ed-3dcb-4f54-8a5f-ced6c5bd6d4e)
